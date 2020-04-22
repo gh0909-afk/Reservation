@@ -1,0 +1,9 @@
+HairShop\config\kafka\KafkaProcessor.class
+HairShop\ReservationSystemRepository.class
+HairShop\ReservationSystemController.class
+HairShop\Application.class
+HairShop\PolicyHandler.class
+HairShop\Reserved.class
+HairShop\ReservationCanceled.class
+HairShop\AbstractEvent.class
+HairShop\ReservationSystem.class
