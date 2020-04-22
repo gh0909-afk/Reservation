@@ -1,8 +1,7 @@
 package HairShop;
 
-import org.springframework.data.repository.PagingAndSortingRepository;
-
-public interface ReservationSystemRepository extends PagingAndSortingRepository<ReservationSystem, Integer>{
+import org.springframework.data.repository.CrudRepository;
+public interface ReservationSystemRepository extends CrudRepository<ReservationSystem, Integer> {
 
 
 }
